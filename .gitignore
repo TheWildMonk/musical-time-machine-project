@@ -1,0 +1,8 @@
+# .DS STORE File
+.DS_Store
+
+# .idea Directory
+.idea/
+
+# __pycache__ Directory
+__pycache__/
