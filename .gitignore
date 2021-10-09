@@ -6,3 +6,6 @@
 
 # __pycache__ Directory
 __pycache__/
+
+# Spotify token
+.cache
