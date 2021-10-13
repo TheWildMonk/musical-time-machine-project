@@ -9,7 +9,11 @@ for that week.</br> </br>
 
 ### <u>**Libraries Used:**</u> <br />
 BeautifulSoup <br/>
-Requests
+requests <br/>
+os <br/>
+datetime <br/>
+dotenv <br/>
+spotipy
 
 ### <u>**Link:**</u> <br />
 [Billboard's top 100](https://www.billboard.com/charts/hot-100/2000-05-20) <br/>
