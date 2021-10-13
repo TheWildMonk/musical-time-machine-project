@@ -16,7 +16,7 @@ dotenv <br/>
 spotipy
 
 ### <u>**Link:**</u> <br />
-[Billboard's top 100](https://www.billboard.com/charts/hot-100/2000-05-20) <br/>
+[Billboard's top 100](https://www.billboard.com/charts/hot-100) <br/>
 
 ### <u>**API**</u> <br />
 [Spotify Web Api](https://developer.spotify.com/documentation/web-api/)
